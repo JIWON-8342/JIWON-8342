@@ -28,6 +28,7 @@
 <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=white"/></a> <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a> <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/></a> <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/NotePad++-90E59A?style=flat&logo=notepadplusplus&logoColor=white"/></a>
 
 # 📞Contact
+[![Github](https://img.shields.io/badge/Geullo-181717?style=flat&logo=Github&logoColor=white)](https://github.com/Geullo)
 [![Gmail](https://img.shields.io/badge/Gmail%20leejiwon8342@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:leejiwon8342@gmail.com)
 [![Discord Presence](https://dcbadge.vercel.app/api/shield/664832374139518976?style=flat&theme=discord-inverted)](https://discord.com/users/664832374139518976)
 [![Youtube](https://img.shields.io/badge/글로%20Youtube-FF0000?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCPE6WJNP43ibmrBmLfM92HA)
