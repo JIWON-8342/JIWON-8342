@@ -15,11 +15,10 @@
 
 
 # 🎨 Favorite Color
-<a href="https://github.com/JIWON-8342">
-  <img src="http://via.placeholder.com/20/D3B4FF/D3B4FF"> <img src="https://img.shields.io/badge/D3B4FF-2C2C2C?style=flat&logo=c++&logoColor=white">
-  <img src="http://via.placeholder.com/20/323443/323443"> <img src="https://img.shields.io/badge/323443-2C2C2C?style=flat&logo=c++&logoColor=white">
-  <img src="http://via.placeholder.com/20/BDD6FF/BDD6FF"> <img src="https://img.shields.io/badge/BDD6FF-2C2C2C?style=flat&logo=c++&logoColor=white">
-  <img src="http://via.placeholder.com/20/FFB8B8/FFB8B8"> <img src="https://img.shields.io/badge/FFB8B8-2C2C2C?style=flat&logo=c++&logoColor=white">
+  <a href="https://github.com/JIWON-8342"><img src="http://via.placeholder.com/20/D3B4FF/D3B4FF"> <img src="https://img.shields.io/badge/D3B4FF-2C2C2C?style=flat&logo=c++&logoColor=white"></a>
+  <a href="https://github.com/JIWON-8342"><img src="http://via.placeholder.com/20/323443/323443"> <img src="https://img.shields.io/badge/323443-2C2C2C?style=flat&logo=c++&logoColor=white"></a>
+  <a href="https://github.com/JIWON-8342"><img src="http://via.placeholder.com/20/BDD6FF/BDD6FF"> <img src="https://img.shields.io/badge/BDD6FF-2C2C2C?style=flat&logo=c++&logoColor=white"></a>
+  <a href="https://github.com/JIWON-8342"><img src="http://via.placeholder.com/20/FFB8B8/FFB8B8"> <img src="https://img.shields.io/badge/FFB8B8-2C2C2C?style=flat&logo=c++&logoColor=white"></a>
 </a>
 
 # 🌊 Using Language
