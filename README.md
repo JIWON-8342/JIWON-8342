@@ -2,4 +2,4 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/CurseForge-6441A4?style=flat-square&logo=CurseForge&logoColor=white"/><img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=Delphi&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intellij IDEA-ffffff?style=flat-square&logo=Intellij IDEA&logoColor=000000"/>
