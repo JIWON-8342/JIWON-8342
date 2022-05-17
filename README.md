@@ -4,14 +4,14 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/JIWON-8342">
+  <a href="https://github.com/JIWON-8342" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=JIWON-8342&count_private=true&show_icons=true&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geullo">
   </a>
 </p>
 
 # 📋 Joined Project
-<a href="https://www.youtube.com/playlist?list=PLd1_qS4noIb1yEU3YSiVs4-X1xeSdoDif"><img src="https://img.shields.io/badge/99분%20방탈출%20산장살인사건-FF0000?style=flat&logo=Youtube&logoColor=white"/></a> <a href="https://www.youtube.com/playlist?list=PLd1_qS4noIb2TuaoFvKFVALDzQWmmIOK8"><img src="https://img.shields.io/badge/사신%20레이스-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/playlist?list=PLd1_qS4noIb1yEU3YSiVs4-X1xeSdoDif" target="_blank"><img src="https://img.shields.io/badge/99분%20방탈출%20산장살인사건-FF0000?style=flat&logo=Youtube&logoColor=white"/></a> <a href="https://www.youtube.com/playlist?list=PLd1_qS4noIb2TuaoFvKFVALDzQWmmIOK8" target="_blank"><img src="https://img.shields.io/badge/사신%20레이스-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
 
 
 # 🎨 Favorite Color
@@ -22,10 +22,10 @@
 </a>
 
 # 🌊 Using Language
-<a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a> <a href="https://files.minecraftforge.net/net/minecraftforge/forge/"><img src="https://img.shields.io/badge/CurseForge-6441A4?style=flat&logo=CurseForge&logoColor=white"/></a> <a href="https://www.embarcadero.com/products/delphi/starter/free-download"><img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=Delphi&logoColor=white"/></a> <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=cplusplus&logoColor=white"/>
+<a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a> <a href="https://files.minecraftforge.net/net/minecraftforge/forge/" target="_blank"><img src="https://img.shields.io/badge/CurseForge-6441A4?style=flat&logo=CurseForge&logoColor=white"/></a> <a href="https://www.embarcadero.com/products/delphi/starter/free-download" target="_blank"><img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=Delphi&logoColor=white"/></a> <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=cplusplus&logoColor=white"/>
 
 # 🖥️ IDE
-<a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=white"/></a> <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a> <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/></a> <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/NotePad++-90E59A?style=flat&logo=notepadplusplus&logoColor=white"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat&logo=Intellij IDEA&logoColor=white"/></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a> <a href="https://www.eclipse.org/" target="_blank"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/></a> <a href="https://www.eclipse.org/" target="_blank"><img src="https://img.shields.io/badge/NotePad++-90E59A?style=flat&logo=notepadplusplus&logoColor=white"/></a>
 
 # 📞Contact
 [![Github](https://img.shields.io/badge/Geullo-181717?style=flat&logo=Github&logoColor=white)](https://github.com/Geullo)
