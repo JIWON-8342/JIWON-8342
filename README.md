@@ -4,8 +4,10 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JIWON-8342&count_private=true&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geullo">
+  <a href="https://github.com/JIWON-8342">
+    <img src="https://github-readme-stats.vercel.app/api?username=JIWON-8342&count_private=true&show_icons=true&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geullo">
+  </a>
 </p>
 
 # 📋 Joined Project
@@ -13,10 +15,12 @@
 
 
 # 🎨 Favorite Color
-  <img src="http://via.placeholder.com/20/D3B4FF/D3B4FF"> `D3B4FF`
-  <img src="http://via.placeholder.com/20/323443/323443"> `323443`
-  <img src="http://via.placeholder.com/20/BDD6FF/BDD6FF"> `BDD6FF`
-  <img src="http://via.placeholder.com/20/FFB8B8/FFB8B8"> `FFB8B8`
+<a href="https://github.com/JIWON-8342">
+  <img src="http://via.placeholder.com/20/D3B4FF/D3B4FF"> <img src="https://img.shields.io/badge/D3B4FF-2C2C2C?style=flat&logo=c++&logoColor=white">
+  <img src="http://via.placeholder.com/20/323443/323443"> <img src="https://img.shields.io/badge/323443-2C2C2C?style=flat&logo=c++&logoColor=white">
+  <img src="http://via.placeholder.com/20/BDD6FF/BDD6FF"> <img src="https://img.shields.io/badge/BDD6FF-2C2C2C?style=flat&logo=c++&logoColor=white">
+  <img src="http://via.placeholder.com/20/FFB8B8/FFB8B8"> <img src="https://img.shields.io/badge/FFB8B8-2C2C2C?style=flat&logo=c++&logoColor=white">
+</a>
 
 # 🌊 Using Language
 <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a> <a href="https://files.minecraftforge.net/net/minecraftforge/forge/"><img src="https://img.shields.io/badge/CurseForge-6441A4?style=flat&logo=CurseForge&logoColor=white"/></a> <a href="https://www.embarcadero.com/products/delphi/starter/free-download"><img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=Delphi&logoColor=white"/></a> <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=cplusplus&logoColor=white"/>
