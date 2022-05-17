@@ -11,7 +11,7 @@
 </p>
 
 # 📋 Joined Project
-<a href="https://www.youtube.com/playlist?list=PLd1_qS4noIb1yEU3YSiVs4-X1xeSdoDif" target="_blank"><img src="https://img.shields.io/badge/99분%20방탈출%20산장살인사건-FF0000?style=flat&logo=Youtube&logoColor=white"/></a> <a href="https://www.youtube.com/playlist?list=PLd1_qS4noIb2TuaoFvKFVALDzQWmmIOK8" target="_blank"><img src="https://img.shields.io/badge/사신%20레이스-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/playlist?list=PLd1_qS4noIb1yEU3YSiVs4-X1xeSdoDif" target="blank"><img src="https://img.shields.io/badge/99분%20방탈출%20산장살인사건-FF0000?style=flat&logo=Youtube&logoColor=white"/></a> <a href="https://www.youtube.com/playlist?list=PLd1_qS4noIb2TuaoFvKFVALDzQWmmIOK8" target="_blank"><img src="https://img.shields.io/badge/사신%20레이스-FF0000?style=flat&logo=Youtube&logoColor=white"/></a>
 
 
 # 🎨 Favorite Color
